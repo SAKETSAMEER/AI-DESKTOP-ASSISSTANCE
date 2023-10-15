@@ -1,7 +1,7 @@
 
 # AI Desktop Assistant
 
-This is a simple AI desktop assistant that performs various tasks such as searching Wikipedia, opening web pages, playing music, checking the time, and even sending emails. It's designed to assist you with everyday tasks using voice commands.
+This AI desktop assistant streamlines daily activities with voice-activated functions. It can swiftly search Wikipedia, launch websites, play music, provide the time, and even send emails. Designed for convenience, it simplifies routine tasks through spoken commands, making it a valuable daily companion.
 
 ## Prerequisites
 
