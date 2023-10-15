@@ -1,3 +1,4 @@
+
 # AI Desktop Assistant
 
 This is a simple AI desktop assistant that performs various tasks such as searching Wikipedia, opening web pages, playing music, checking the time, and even sending emails. It's designed to assist you with everyday tasks using voice commands.
@@ -18,31 +19,46 @@ Install these libraries using `pip`:
 
 ```bash
 pip install pyttsx3 datetime speech_recognition wikipedia webbrowser
+```
 
+## Getting Started
 
-Getting Started
-Clone the repository to your local machine:
-bash
-Copy code
+1. Clone the repository to your local machine:
+
+```bash
 git clone https://github.com/your-username/ai-desktop-assistant.git
-Navigate to the project directory:
-bash
-Copy code
-cd ai-desktop-assistant
-Run the script:
-python main.py
+```
 
-Usage
+2. Navigate to the project directory:
+
+```bash
+cd ai-desktop-assistant
+```
+
+3. Run the script:
+
+```bash
+python main.py
+```
+
+## Usage
+
 Once the script is running, the assistant will greet you and listen for your voice commands. Some example commands include:
 
-"Wikipedia search [your query]"
-"Open YouTube"
-"Open Google"
-"Play music"
-"What's the time?"
-"Who are you?"
-"Who created you?"
-"Open VIT website"
-"Show me your code"
-"Email [recipient's email]"
+- "Wikipedia search [your query]"
+- "Open YouTube"
+- "Open Google"
+- "Play music"
+- "What's the time?"
+- "Who are you?"
+- "Who created you?"
+- "Open VIT website"
+- "Show me your code"
+- "Email [recipient's email]"
+
 The assistant can perform a variety of tasks based on your voice commands. Simply say "stop" to exit the program.
+
+
+## Credits
+
+This AI desktop assistant was created by Saket Sameer using Python.
